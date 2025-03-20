@@ -1,0 +1,4 @@
+HELLO..
+There are two types of merges
+    a) fast-forward merge
+    b)3-way merge 
